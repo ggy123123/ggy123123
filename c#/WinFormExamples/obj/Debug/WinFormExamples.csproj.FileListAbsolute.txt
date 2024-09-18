@@ -1,0 +1,14 @@
+E:\V3CSharp\ch01\ch01\WinFormExamples\bin\Debug\WinFormExamples.exe.config
+E:\V3CSharp\ch01\ch01\WinFormExamples\bin\Debug\WinFormExamples.exe
+E:\V3CSharp\ch01\ch01\WinFormExamples\bin\Debug\WinFormExamples.pdb
+E:\V3CSharp\ch01\ch01\WinFormExamples\obj\Debug\WinFormExamples.csprojResolveAssemblyReference.cache
+E:\V3CSharp\ch01\ch01\WinFormExamples\obj\Debug\WinFormExamples.Properties.Resources.resources
+E:\V3CSharp\ch01\ch01\WinFormExamples\obj\Debug\WinFormExamples.csproj.GenerateResource.Cache
+E:\V3CSharp\ch01\ch01\WinFormExamples\obj\Debug\WinFormExamples.exe
+E:\V3CSharp\ch01\ch01\WinFormExamples\obj\Debug\WinFormExamples.pdb
+E:\V3CSharp\ch01\ch01\WinFormExamples\obj\Debug\WinFormExamples.MainForm.resources
+E:\V3CSharp\ch01\ch01\WinFormExamples\obj\Debug\WinFormExamples.Forms.CheckBoxRadioButton.resources
+E:\V3CSharp\ch01\ch01\WinFormExamples\obj\Debug\WinFormExamples.Forms.ErrorProviderExample.resources
+E:\V3CSharp\ch01\ch01\WinFormExamples\obj\Debug\WinFormExamples.Forms.HelloWorldForm.resources
+E:\V3CSharp\ch01\ch01\WinFormExamples\obj\Debug\WinFormExamples.Forms.ListBoxComboBox.resources
+E:\V3CSharp\ch01\ch01\WinFormExamples\obj\Debug\WinFormExamples.Forms.TextBoxExample.resources

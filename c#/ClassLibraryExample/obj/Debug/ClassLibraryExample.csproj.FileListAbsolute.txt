@@ -1,0 +1,5 @@
+E:\V3CSharp\ch01\ch01\ClassLibraryExample\bin\Debug\ClassLibraryExample.dll
+E:\V3CSharp\ch01\ch01\ClassLibraryExample\bin\Debug\ClassLibraryExample.pdb
+E:\V3CSharp\ch01\ch01\ClassLibraryExample\obj\Debug\ClassLibraryExample.csprojResolveAssemblyReference.cache
+E:\V3CSharp\ch01\ch01\ClassLibraryExample\obj\Debug\ClassLibraryExample.dll
+E:\V3CSharp\ch01\ch01\ClassLibraryExample\obj\Debug\ClassLibraryExample.pdb

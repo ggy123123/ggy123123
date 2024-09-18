@@ -1,0 +1,8 @@
+E:\V3CSharp\ch01\ch01\ConsoleExamples\bin\Debug\ConsoleExamples.exe.config
+E:\V3CSharp\ch01\ch01\ConsoleExamples\bin\Debug\ConsoleExamples.exe
+E:\V3CSharp\ch01\ch01\ConsoleExamples\bin\Debug\ConsoleExamples.pdb
+E:\V3CSharp\ch01\ch01\ConsoleExamples\obj\Debug\ConsoleExamples.exe
+E:\V3CSharp\ch01\ch01\ConsoleExamples\obj\Debug\ConsoleExamples.pdb
+E:\V3CSharp\ch01\ch01\ConsoleExamples\bin\Debug\ClassLibraryExample.dll
+E:\V3CSharp\ch01\ch01\ConsoleExamples\bin\Debug\ClassLibraryExample.pdb
+E:\V3CSharp\ch01\ch01\ConsoleExamples\obj\Debug\ConsoleExamples.csprojResolveAssemblyReference.cache
